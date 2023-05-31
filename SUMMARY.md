@@ -18,7 +18,7 @@
 
 * [Usage](sdk/usage.md)
 * [Installation](sdk/installation.md)
-* [Update](sdk/update.md)
+* [Update/Remove](sdk/update-remove.md)
 * [Endpoints](sdk/endpoints.md)
 
 ## ▫ APPLICATION
