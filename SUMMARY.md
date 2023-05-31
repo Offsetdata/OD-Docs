@@ -7,6 +7,7 @@
 
 * [What is Offsetdata](general/what-is-offsetdata.md)
 * [Web3 Data](general/web3-data.md)
+* [NFT Metadata](general/nft-metadata.md)
 
 ## ▫ API
 
