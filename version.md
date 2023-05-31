@@ -6,7 +6,7 @@ coverY: 0
 
 # 🟢 Version
 
-## Version&#x20;
+## Current Versions&#x20;
 
 This documentation provides an overview of the different versions of the components related to Offsetdata. Each version corresponds to a specific component and includes information about its purpose and features.
 
