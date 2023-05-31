@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This documentation provides step-by-step instructions on how to install the OffsetData package via the NPM (Node Package Manager) for seamless integration with your project. The OffsetData NPM package enables you to securely submit and store your data on the blockchain using OffsetData's services.
+This document provides step-by-step instructions on how to install the OffsetData package via the NPM (Node Package Manager) for seamless integration with your project. The OffsetData NPM package enables you to securely submit and store your data on the blockchain using OffsetData's services.
 
 ### Prerequisites
 
@@ -55,8 +55,8 @@ To install the OffsetData package and integrate it into your project, follow the
 
 Depending on your project requirements, you may need to configure the OffsetData package with your specific credentials or settings. Consult the OffsetData documentation or the package's API reference for details on how to set up additional configuration options.
 
-### Conclusion
+### Congratulations!
 
-Congratulations! You have successfully installed the OffsetData NPM package, allowing you to securely submit and store your data on the blockchain using OffsetData's services. Ensure that you refer to the OffsetData documentation for guidance on how to utilize the package's functionalities effectively and integrate them into your project seamlessly.
+You have successfully installed the OffsetData NPM package, allowing you to securely submit and store your data on the blockchain using OffsetData's services. Ensure that you refer to the OffsetData documentation for guidance on how to utilize the package's functionalities effectively and integrate them into your project seamlessly.
 
 \
