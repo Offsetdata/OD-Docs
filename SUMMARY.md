@@ -17,25 +17,25 @@
 
 ## ▫ SDK
 
-* [Usage](sdk/usage.md)
 * [Installation](sdk/installation.md)
 * [Update/Remove](sdk/update-remove.md)
 * [Endpoints](sdk/endpoints.md)
+* [Usage](sdk/usage.md)
 
 ## ▫ APPLICATION
 
-* [Usage](application/usage.md)
 * [Getting Started](application/getting-started.md)
 * [Account](application/account.md)
 * [API Keys](application/api-keys.md)
 * [Dashboard](application/dashboard.md)
 * [Playground](application/playground.md)
 * [Status Page](application/status-page.md)
+* [Usage](application/usage.md)
 
 ## ▫ CHROME EXTENSION
 
-* [Usage](chrome-extension/usage.md)
 * [Installation](chrome-extension/installation.md)
+* [Usage](chrome-extension/usage.md)
 
 ## ▫ AI MODEL
 
