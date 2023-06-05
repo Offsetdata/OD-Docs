@@ -18,7 +18,6 @@ Before proceeding with the installation, ensure that you have the following prer
     npm --version
     ```
 
-    \
     If NPM is installed, it will display the version number. If it's not installed, please refer to the Node.js installation instructions.
 
 ### Installation Steps
@@ -34,7 +33,6 @@ To install the Offsetdata package and integrate it into your project, follow the
     install offsetdata
     ```
 
-    \
     This command will fetch the package from the official NPM registry and install it locally within your project.
 4.  Once the installation is complete, you can import and use the Offsetdata package in your project. To do this, include the following line at the top of your JavaScript file:\
 
@@ -47,8 +45,8 @@ To install the Offsetdata package and integrate it into your project, follow the
 
 
 
-    \
-    This line imports the Offsetdata package, making its functionalities available within your project.
+
+This line imports the Offsetdata package, making its functionalities available within your project.
 5. You can now use the Offsetdata package in your code to submit and store data securely on the blockchain using Offsetdata's services. Refer to the Offsetdata documentation or the package's API reference for information on how to utilize its features effectively.
 
 ### Additional Configuration
@@ -59,4 +57,4 @@ Depending on your project requirements, you may need to configure the Offsetdata
 
 You have successfully installed the Offsetdata NPM package, allowing you to securely submit and store your data on the blockchain using Offsetdata's services. Ensure that you refer to the Offsetdata documentation for guidance on how to utilize the package's functionalities effectively and integrate them into your project seamlessly.
 
-\
+

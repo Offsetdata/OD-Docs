@@ -46,6 +46,6 @@ If you wish to remove the Offsetdata package from your project, follow these ste
 
 Please note that removing the Offsetdata package will disable any functionalities or features that rely on it. Ensure that you have backups or alternative solutions in place if needed.
 
-### Conclusion
+### In Short
 
 Updating and removing the Offsetdata NPM package is a straightforward process. By following the steps outlined above, you can easily update the package to the latest version or remove it from your project when necessary. Remember to consider any dependencies or functionalities that rely on the package before removing it.
