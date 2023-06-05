@@ -11,7 +11,7 @@ This document provides step-by-step instructions on how to install the Offsetdat
 Before proceeding with the installation, ensure that you have the following prerequisites:
 
 1. Node.js: Offsetdata requires Node.js to be installed on your system. You can download and install Node.js from the official website: [https://nodejs.org](https://nodejs.org/).
-2.  NPM: NPM is bundled with Node.js, so ensure that you have NPM installed. You can verify this by running the following command in your terminal or command prompt:\
+2.  NPM: NPM is bundled with Node.js, so ensure that you have NPM installed. You can verify this by running the following command in your terminal or command prompt:
 
 
     ```css
@@ -26,7 +26,7 @@ To install the Offsetdata package and integrate it into your project, follow the
 
 1. Open your terminal or command prompt.
 2. Navigate to your project directory or the desired location where you want to install the Offsetdata package.
-3.  Run the following command to install the Offsetdata package:\
+3.  Run the following command to install the Offsetdata package:
 
 
     ```
@@ -34,7 +34,7 @@ To install the Offsetdata package and integrate it into your project, follow the
     ```
 
     This command will fetch the package from the official NPM registry and install it locally within your project.
-4.  Once the installation is complete, you can import and use the Offsetdata package in your project. To do this, include the following line at the top of your JavaScript file:\
+4.  Once the installation is complete, you can import and use the Offsetdata package in your project. To do this, include the following line at the top of your JavaScript file:
 
 
     {% code fullWidth="true" %}
