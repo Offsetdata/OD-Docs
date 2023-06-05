@@ -2,14 +2,14 @@
 description: >-
   We are not ready just yet, but you can join the beta program and help shape
   the future of Web3 development today!  
-  https://offsetdata.com/blog/beta-testing-program/
+  https://Offsetdata.com/blog/beta-testing-program/
 cover: .gitbook/assets/video-bg-green.jpg
 coverY: 0
 ---
 
 # GM Web3 Developers
 
-[Join Beta <-](https://offsetdata.com/blog/beta-testing-program/)\
+[Join Beta <-](https://Offsetdata.com/blog/beta-testing-program/)\
 \
 Welcome to the Offsetdata Web3 Developers Documentation! This documentation serves as a comprehensive resource for developers looking to integrate web3 data storage and retrieval capabilities into their applications. Here, you will find detailed information about Offsetdata's features, APIs, and best practices to help you get started.
 
@@ -25,57 +25,57 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### Version
 
-* [Version](version.md): Check the current version of the OffsetData Web3 tools o ensure you are using the latest version of the product
+* [Version](version.md): Check the current version of the Offsetdata Web3 tools o ensure you are using the latest version of the product
 
 ### General
 
-* [What is Offsetdata](general/what-is-offsetdata.md): Learn about OffsetData and its role in securely storing web3 data on the blockchain.
+* [What is Offsetdata](general/what-is-Offsetdata.md): Learn about Offsetdata and its role in securely storing web3 data on the blockchain.
 * [Web3 Data](general/web3-data.md): Explore the concept of web3 data and how it differs from traditional web data.
 * [NFT Metadata:](general/nft-metadata.md) Understand the significance of NFT metadata and its role in enhancing the value and functionality of NFTs.
 * [NFT Layers](general/nft-layers.md): Discover how NFT layering adds additional functionality and customization to NFTs, expanding their potential use cases.
 
 ### API
 
-* [Endpoints:](api/endpoints.md) Explore OffsetData's API endpoints and how to interact with them to submit and retrieve data.
-* [Usage:](api/usage.md) Learn how to integrate OffsetData's API into your web3 applications effectively.
+* [Endpoints:](api/endpoints.md) Explore Offsetdata's API endpoints and how to interact with them to submit and retrieve data.
+* [Usage:](api/usage.md) Learn how to integrate Offsetdata's API into your web3 applications effectively.
 
 ### SDK
 
-* [Usage](sdk/usage.md): Get started with OffsetData's SDK and learn how to leverage its functionalities in your projects.
-* [Installation:](sdk/installation.md) Follow the installation instructions for integrating the OffsetData SDK into your development environment.
-* [Update/Remove](sdk/update-remove.md): Learn how to update or remove the OffsetData SDK from your project.
-* [Endpoints:](sdk/endpoints.md) Discover the available endpoints and functionalities provided by the OffsetData SDK.
+* [Usage](sdk/usage.md): Get started with Offsetdata's SDK and learn how to leverage its functionalities in your projects.
+* [Installation:](sdk/installation.md) Follow the installation instructions for integrating the Offsetdata SDK into your development environment.
+* [Update/Remove](sdk/update-remove.md): Learn how to update or remove the Offsetdata SDK from your project.
+* [Endpoints:](sdk/endpoints.md) Discover the available endpoints and functionalities provided by the Offsetdata SDK.
 
 ### Application
 
-* [Usage](https://chat.openai.com/application/usage.md)[:](application/usage.md) Understand how to use the OffsetData application effectively for managing your web3 data.
-* [Getting Started](https://chat.openai.com/application/getting-started.md)[:](application/getting-started.md) Get started with the OffsetData application and set up your account.
-* [Account](application/account.md): Learn how to manage your OffsetData account, including settings and preferences.
-* [API Keys:](application/api-keys.md) Generate and manage API keys for secure access to OffsetData's features.
-* [Dashboard:](application/dashboard.md) Navigate and utilize the OffsetData dashboard for data management.
-* [Playground:](application/playground.md) Explore the OffsetData playground for testing and experimenting with data submissions.
-* [Status Page](https://chat.openai.com/application/status-page.md)[:](application/status-page.md) Stay informed about OffsetData's service status and updates through the status page.
+* [Usage](https://chat.openai.com/application/usage.md)[:](application/usage.md) Understand how to use the Offsetdata application effectively for managing your web3 data.
+* [Getting Started](https://chat.openai.com/application/getting-started.md)[:](application/getting-started.md) Get started with the Offsetdata application and set up your account.
+* [Account](application/account.md): Learn how to manage your Offsetdata account, including settings and preferences.
+* [API Keys:](application/api-keys.md) Generate and manage API keys for secure access to Offsetdata's features.
+* [Dashboard:](application/dashboard.md) Navigate and utilize the Offsetdata dashboard for data management.
+* [Playground:](application/playground.md) Explore the Offsetdata playground for testing and experimenting with data submissions.
+* [Status Page](https://chat.openai.com/application/status-page.md)[:](application/status-page.md) Stay informed about Offsetdata's service status and updates through the status page.
 
 ### Chrome Extension
 
-* [Usage](chrome-extension/usage.md): Learn how to use the OffsetData Chrome extension for seamless web3 data integration.
-* [Installation](chrome-extension/installation.md): Follow the installation instructions to set up the OffsetData Chrome extension in your browser.
+* [Usage](chrome-extension/usage.md): Learn how to use the Offsetdata Chrome extension for seamless web3 data integration.
+* [Installation](chrome-extension/installation.md): Follow the installation instructions to set up the Offsetdata Chrome extension in your browser.
 
 ### AI Model
 
-* [Usage](ai-model/usage.md): Discover how to leverage the OffsetData AI model for advanced data analysis and insights.
-* [Training](ai-model/training.md): Learn about training your own AI model using OffsetData's infrastructure and tools.
+* [Usage](ai-model/usage.md): Discover how to leverage the Offsetdata AI model for advanced data analysis and insights.
+* [Training](ai-model/training.md): Learn about training your own AI model using Offsetdata's infrastructure and tools.
 
 ### Pricing
 
-* [Prices](pricing/prices.md): Explore the pricing plans and options available for OffsetData's services.
-* [Payment Methods](pricing/payment-methods.md): Understand the supported payment methods for subscribing to OffsetData's plans.
-* [Units Explained](pricing/units-explained.md): Get familiar with the units and measurements used in OffsetData's pricing structure.
-* [Upgrade](https://chat.openai.com/pricing/upgrade.md)[:](pricing/upgrade.md) Learn how to upgrade your OffsetData plan to access additional features and resources.
+* [Prices](pricing/prices.md): Explore the pricing plans and options available for Offsetdata's services.
+* [Payment Methods](pricing/payment-methods.md): Understand the supported payment methods for subscribing to Offsetdata's plans.
+* [Units Explained](pricing/units-explained.md): Get familiar with the units and measurements used in Offsetdata's pricing structure.
+* [Upgrade](https://chat.openai.com/pricing/upgrade.md)[:](pricing/upgrade.md) Learn how to upgrade your Offsetdata plan to access additional features and resources.
 
 ### Links
 
-* [Important Links](https://chat.openai.com/links/important-links.md)[:](links/important-links.md) Access a curated list of important links related to OffsetData, including official resources, community channels, and
+* [Important Links](https://chat.openai.com/links/important-links.md)[:](links/important-links.md) Access a curated list of important links related to Offsetdata, including official resources, community channels, and
 
 ## Getting Started
 

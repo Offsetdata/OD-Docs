@@ -30,7 +30,7 @@ The API version 0.5.7 Beta is the back-end component of Offsetdata that enables 
 
 [https://www.npmjs.com/package/offsetdata](https://www.npmjs.com/package/offsetdata)
 
-The SDK version 1.1.4 is a software development kit (SDK) that simplifies the integration process of Offsetdata's services into your applications. It offers  Node Package Manager (NPM) package for data and NFT queries. It provides a convenient way to install and integrate OffsetData's services into your Node.js or JavaScript projects. This version includes bug fixes, performance enhancements, and additional features compared to previous versions. It ensures a smooth integration process with OffsetData's platform.
+The SDK version 1.1.4 is a software development kit (SDK) that simplifies the integration process of Offsetdata's services into your applications. It offers  Node Package Manager (NPM) package for data and NFT queries. It provides a convenient way to install and integrate Offsetdata's services into your Node.js or JavaScript projects. This version includes bug fixes, performance enhancements, and additional features compared to previous versions. It ensures a smooth integration process with Offsetdata's platform.
 
 Note: The versions mentioned above represent the current state of each component at the time of this documentation. It's essential to check for the latest releases and updates from Offsetdata to take advantage of new features and improvements. Always refer to the official documentation or the respective repositories for detailed information about each component's version-specific features and instructions.
 

@@ -1,17 +1,17 @@
 # Usage
 
-## OffsetData Chrome Extension 0.0.2 (Beta)
+## Offsetdata Chrome Extension 0.0.2 (Beta)
 
 ### Introduction
 
-The OffsetData Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features and usage instructions.
+The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features and usage instructions.
 
 ### Installation
 
-To install the OffsetData Chrome Extension, follow these steps or refer to [installation.md](installation.md "mention"):
+To install the Offsetdata Chrome Extension, follow these steps or refer to [installation.md](installation.md "mention"):
 
 1. Open the Chrome browser on your computer.
-2. Go to the [OffsetData Web3 Data Management](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec) page on the Chrome Web Store.
+2. Go to the [Offsetdata Web3 Data Management](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec) page on the Chrome Web Store.
 3. Click on the "Add to Chrome" button.
 4. A confirmation dialog will appear. Click on "Add extension" to proceed with the installation.
 5. The extension will be installed and added to your Chrome browser.
@@ -20,7 +20,7 @@ To install the OffsetData Chrome Extension, follow these steps or refer to [inst
 
 #### Top Menu
 
-The OffsetData Chrome Extension features a top menu that allows you to switch between different modes:
+The Offsetdata Chrome Extension features a top menu that allows you to switch between different modes:
 
 * **Pro Mode**: This mode provides advanced features and capabilities. Please note that "Pro Mode" is not available in the beta version of the extension.
 * **Normal Mode**: This mode offers standard functionality for managing web3 data.
@@ -40,14 +40,14 @@ The selector section of the extension enables you to activate or deactivate vari
 
 #### Bottom Menu
 
-The bottom menu of the OffsetData Chrome Extension provides additional options and links for enhanced navigation:
+The bottom menu of the Offsetdata Chrome Extension provides additional options and links for enhanced navigation:
 
-* **OffsetData.com Homepage**: Clicking on the icon or button associated with the OffsetData.com homepage will redirect you to the official website of OffsetData.
-* **API Documentation**: The bottom menu may include a button to access the API documentation related to the OffsetData Chrome Extension. Click on this button to explore the available API documentation.
-* **OffsetData Official Twitter Account**: By clicking on the icon or button associated with the official Twitter account of OffsetData, you can visit and follow the latest updates and news.
+* **Offsetdata.com Homepage**: Clicking on the icon or button associated with the Offsetdata.com homepage will redirect you to the official website of Offsetdata.
+* **API Documentation**: The bottom menu may include a button to access the API documentation related to the Offsetdata Chrome Extension. Click on this button to explore the available API documentation.
+* **Offsetdata Official Twitter Account**: By clicking on the icon or button associated with the official Twitter account of Offsetdata, you can visit and follow the latest updates and news.
 
-Please note that the appearance and specific options in the bottom menu may vary based on the implementation and version of the OffsetData Chrome Extension.
+Please note that the appearance and specific options in the bottom menu may vary based on the implementation and version of the Offsetdata Chrome Extension.
 
 ### Support and Feedback
 
-For any issues, questions, or feedback regarding the OffsetData Chrome Extension, please contact our support team at [support@offsetdata.com](mailto:support@offsetdata.com). We value your input and will be happy to assist you with any inquiries.
+For any issues, questions, or feedback regarding the Offsetdata Chrome Extension, please contact our support team at [support@offsetdata.com](mailto:support@offsetdata.com). We value your input and will be happy to assist you with any inquiries.
