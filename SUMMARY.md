@@ -30,7 +30,6 @@
 * [Dashboard](application/dashboard.md)
 * [Playground](application/playground.md)
 * [Status Page](application/status-page.md)
-* [Usage](application/usage.md)
 
 ## ▫ CHROME EXTENSION
 
