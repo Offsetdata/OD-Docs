@@ -24,7 +24,7 @@
 
 ## ▫ APPLICATION
 
-* [Getting Started](application/getting-started.md)
+* [Getting Started with Offsetdata App](application/getting-started.md)
 * [Account](application/account.md)
 * [API Keys](application/api-keys.md)
 * [Dashboard](application/dashboard.md)
