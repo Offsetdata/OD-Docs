@@ -13,7 +13,8 @@
 ## ▫ API
 
 * [Endpoints](api/endpoints.md)
-* [Usage](api/usage.md)
+* [Usage](api/usage/README.md)
+  * [Page 1](api/usage/page-1.md)
 
 ## ▫ SDK
 
@@ -25,7 +26,6 @@
 ## ▫ APPLICATION
 
 * [Getting Started](application/getting-started.md)
-* [Account](application/account.md)
 * [API Keys](application/api-keys.md)
 * [Dashboard](application/dashboard.md)
 * [Playground](application/playground.md)

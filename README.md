@@ -35,7 +35,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 ### API
 
 * [Endpoints:](broken-reference) Explore Offsetdata's API endpoints and how to interact with them to submit and retrieve data.
-* [Usage:](api/usage.md) Learn how to integrate Offsetdata's API into your web3 applications effectively.
+* [Usage:](api/usage/) Learn how to integrate Offsetdata's API into your web3 applications effectively.
 
 ### SDK
 
@@ -48,7 +48,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 * [Usage](https://chat.openai.com/application/usage.md)[:](broken-reference) Understand how to use the Offsetdata application effectively for managing your web3 data.
 * [Getting Started](https://chat.openai.com/application/getting-started.md)[:](application/getting-started.md) Get started with the Offsetdata application and set up your account.
-* [Account](application/account.md): Learn how to manage your Offsetdata account, including settings and preferences.
+* [Account](broken-reference): Learn how to manage your Offsetdata account, including settings and preferences.
 * [API Keys:](application/api-keys.md) Generate and manage API keys for secure access to Offsetdata's features.
 * [Dashboard:](application/dashboard.md) Navigate and utilize the Offsetdata dashboard for data management.
 * [Playground:](application/playground.md) Explore the Offsetdata playground for testing and experimenting with data submissions.
