@@ -46,7 +46,7 @@ You can encode query parameters to test API endpoints in the browser with the he
 Encoded Query
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>GraphiQL Browser Tool</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>GraphiQL Browser Tool</p></figcaption></figure>
 
 ### GraphQL Flexibility
 

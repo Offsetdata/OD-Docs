@@ -35,7 +35,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 ### API
 
 * [Endpoints:](broken-reference) Explore Offsetdata's API endpoints and how to interact with them to submit and retrieve data.
-* [Usage:](api/usage/) Learn how to integrate Offsetdata's API into your web3 applications effectively.
+* [Usage:](api/usage.md) Learn how to integrate Offsetdata's API into your web3 applications effectively.
 
 ### SDK
 

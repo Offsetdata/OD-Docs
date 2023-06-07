@@ -13,8 +13,24 @@
 ## ▫ API
 
 * [Endpoints](api/endpoints.md)
-* [Usage](api/usage/README.md)
-  * [Page 1](api/usage/page-1.md)
+* [Usage](api/usage.md)
+  * [nftMap](api/usage/nftmap.md)
+  * [nftGet](api/usage/nftget.md)
+  * [nftAdd](api/usage/nftadd.md)
+  * [nftDel](api/usage/nftdel.md)
+  * [nftUpd](api/usage/nftupd.md)
+  * [nftMod](api/usage/nftmod.md)
+  * [nftSearch](api/usage/nftsearch.md)
+  * [nftMapAll](api/usage/nftmapall.md)
+  * [dataAdd](api/usage/dataadd.md)
+  * [dataVerify](api/usage/dataverify.md)
+  * [dataFind](api/usage/datafind.md)
+  * [dataAll](api/usage/dataall.md)
+  * [priceGet](api/usage/priceget.md)
+  * [txGet](api/usage/txget.md)
+  * [userRevokeKey](api/usage/userrevokekey.md)
+  * [userUsage](api/usage/userusage.md)
+  * [version](api/usage/version.md)
 
 ## ▫ SDK
 
