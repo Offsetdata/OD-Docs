@@ -16,7 +16,10 @@
 * [Usage](api/usage.md)
   * [nftMap](api/usage/nftmap.md)
   * [nftGet](api/usage/nftget.md)
-  * [nftAdd](api/usage/nftadd.md)
+  * [dataAdd](api/usage/dataadd.md)
+  * [dataFind](api/usage/datafind.md)
+
+  <!-- * [nftAdd](api/usage/nftadd.md)
   * [nftDel](api/usage/nftdel.md)
   * [nftUpd](api/usage/nftupd.md)
   * [nftMod](api/usage/nftmod.md)
@@ -30,14 +33,15 @@
   * [txGet](api/usage/txget.md)
   * [userRevokeKey](api/usage/userrevokekey.md)
   * [userUsage](api/usage/userusage.md)
-  * [version](api/usage/version.md)
+  * [version](api/usage/version.md) -->
+
 
 ## ▫ SDK
 
 * [Installation](sdk/installation.md)
 * [Update/Remove](sdk/update-remove.md)
 * [Endpoints](sdk/endpoints.md)
-* [Usage](sdk/usage.md)
+<!-- * [Usage](sdk/usage.md) -->
 
 ## ▫ APPLICATION
 
@@ -57,12 +61,12 @@
 * [Usage](ai-model/usage.md)
 * [Training](ai-model/training.md)
 
-## ▫ PRICING
+<!-- ## ▫ PRICING
 
 * [Prices](pricing/prices.md)
 * [Payment Methods](pricing/payment-methods.md)
 * [Units Explained](pricing/units-explained.md)
-* [Upgrade](pricing/upgrade.md)
+* [Upgrade](pricing/upgrade.md) -->
 
 ## ▫ Links
 
