@@ -28,7 +28,7 @@ The `nftMap` mutation returns an object with the following fields:
 | -------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `status` | String | <p>The status of the mapping process. Possible values:<br><br><mark style="color:green;"><code>Mapped</code></mark> (if the token does not exist and is being mapped to Offsetdata),<br><br><mark style="color:red;"><code>Token already exists</code></mark> (if the token already exists and mapping is not needed),<br><br><mark style="color:red;"><code>Failed to get token URI on eth</code></mark> (if the token does not exist on the provided chain, eg. Ethereum)<br><br><mark style="color:red;"><code>Chain not supported</code></mark> (if a non-supported chain is provided), "Invalid Key" (if an invalid API key is provided).</p> |
 
-#### Example Usage
+#### Example
 
 The following example demonstrates how to use the `nftMap` mutation to map an NFT token to Offsetdata:
 
@@ -38,7 +38,7 @@ graphql mutation {
     apikey: "API_KEY"
     chain: "eth"
     tokenAddress: "0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3"
-    tokenId: "3650"
+    tokenId: "1"
   }) {
     status
   }
@@ -47,7 +47,7 @@ graphql mutation {
 
 #### Code Examples
 
-Here atre some code examples of how `nftMap` endpoint can be used in various cases:
+Here are some code examples of how `nftMap` endpoint can be used in various cases:
 
 {% tabs %}
 {% tab title="curl" %}
@@ -148,4 +148,3 @@ Please note that this document assumes the base URL for the API to be `https://a
 
 The response from the API will contain the status of the mapping process in the `data.nftMap.status` field.
 
-Feel free to reach out if you have any further questions!
