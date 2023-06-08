@@ -35,7 +35,7 @@ The following example demonstrates how to use the `nftMap` mutation to map an NF
 ```graphql
 graphql mutation {
   nftMap(meta: {
-    apikey: "od-0000000000000000000000000000000000000000000"
+    apikey: "API_KEY"
     chain: "eth"
     tokenAddress: "0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3"
     tokenId: "3650"
@@ -45,9 +45,9 @@ graphql mutation {
 }
 ```
 
-#### cURL Example
+#### Code Examples
 
-Here's an example cURL command to perform the `nftMap` mutation:
+Here's an some code examples of how `nftMap` mutation can be used in various cases:
 
 
 
@@ -58,7 +58,7 @@ Here's an example cURL command to perform the `nftMap` mutation:
 curl -X POST \
   -H "Content-Type: application/json" \
   -d '{
-    "query": "mutation { nftMap(meta: { apikey: \"od-0000000000000000000000000000000000000000000\", chain: \"eth\", tokenAddress: \"0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3\", tokenId: \"3650\" }) { status } }"
+    "query": "mutation { nftMap(meta: { apikey: \"API_KEY\", chain: \"eth\", tokenAddress: \"0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3\", tokenId: \"3650\" }) { status } }"
   }' \
   https://api.offsetdata.com/graphql
 ```
@@ -67,27 +67,20 @@ curl -X POST \
 {% tab title="Node.js" %}
 ```bash
 const fetch = require('node-fetch');
-
-const apiUrl = 'https://api.offsetdata.com/graphql';
-const apiKey = 'od-0000000000000000000000000000000000000000000';
-const chain = 'eth';
-const tokenAddress = '0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3';
-const tokenId = '3650';
-
 const query = `
   mutation {
     nftMap(meta: {
-      apikey: "${apiKey}",
-      chain: "${chain}",
-      tokenAddress: "${tokenAddress}",
-      tokenId: "${tokenId}"
+      apikey: "API_KEY",
+      chain: "eth",
+      tokenAddress: "0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3",
+      tokenId: "1"
     }) {
       status
     }
   }
 `;
 
-fetch(apiUrl, {
+fetch("https://api.offsetdata.com/graphql", {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({ query }),
@@ -104,14 +97,55 @@ fetch(apiUrl, {
 
 {% tab title="Javascript Axios" %}
 ```bash
-curl -X POST \
-  -H "Content-Type: application/json" \
-  -d '{
-    "query": "mutation { nftMap(meta: { apikey: \"od-0000000000000000000000000000000000000000000\", chain: \"eth\", tokenAddress: \"0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3\", tokenId: \"3650\" }) { status } }"
-  }' \
-  https://api.offsetdata.com/graphql
+import axios from 'axios';
+const query = {
+  query: `mutation {
+    nftMap(meta: {
+      apikey: "API_KEY",
+      chain: "eth",
+      tokenAddress: "0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3",
+      tokenId: "1"
+    }) {
+      status
+    }
+  }`
+};
+
+axios.post('https://api.offsetdata.com/graphql', query)
+  .then(({ data }) => {
+    const status = data.data.nftMap.status;
+    console.log('Mapping status:', status);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+
 ```
 {% endtab %}
+
+{% tab title="Python" %}
+```bash
+import requests
+query = '''
+  mutation {
+    nftMap(meta: {
+      apikey: "API_KEY",
+      chain: "eth",
+      tokenAddress: "0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3",
+      tokenId: "1"
+    }) {
+      status
+    }
+  }
+'''
+response = requests.post("https://api.offsetdata.com/graphql", json={'query': query}).json()
+status = response['data']['nftMap']['status']
+print('Mapping status:', status)
+
+
+```
+{% endtab %}
+
 
 {% endtabs %}
 
