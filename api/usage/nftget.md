@@ -172,11 +172,7 @@ Make sure to replace `"API_KEY"` with your actual API key to authenticate the re
 
 [^6]: `image_data, background_image, image_url, background_color, animation_url, external_url, youtube_url, raw, gateway, thumbnail, format, mimeType`
 
-[^7]: 
-
-    ```
-    value, trait_type, display_type, key, max_value, link
-    ```
+[^7]: `value, trait_type, display_type, key, max_value, link`
 
 [^8]: `points, status, type, owner, price, ipfs, location, license, edition, date, gender, id, is_normalized, version, last_request_date`
 
