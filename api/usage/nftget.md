@@ -45,6 +45,8 @@ graphql query {
     tokenId: "1"
   }) {
     status
+    chain
+    tokenAddress
   }
 }
 
