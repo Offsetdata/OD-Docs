@@ -30,7 +30,10 @@ The `nftGet` query returns an object with the following fields:
 
 The `nftGet` query returns an object with the following fields:
 
-<table data-full-width="false"><thead><tr><th>Additional Fields</th><th>Type</th><th>Response </th></tr></thead><tbody><tr><td><code>chain</code></td><td>String</td><td>Name of the blockchain where token exists</td></tr><tr><td><code>tokenAddress</code></td><td>String</td><td>NFT Token Address</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+| Additional Fields   | Type   | Response                                                                       |
+| ------------------- | ------ | ------------------------------------------------------------------------------ |
+| `chain`             | Object | The blockchain network on which the NFT is located.                            |
+| `tokenAddress`      | String | NFT Token Address.                                                             |
 
 **Example Usage**
 
@@ -49,7 +52,6 @@ graphql query {
     tokenAddress
   }
 }
-
 ```
 
 **Code Examples**
