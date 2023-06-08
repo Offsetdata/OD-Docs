@@ -58,25 +58,17 @@ curl -X POST \
   https://api.offsetdata.com/graphql
 ```
 
-## title {.tabset .tabset-fade}
+{% tabs %}
 
-content above tabbed region.
+{% tab title="tab1_title" %}
+Content for first tab ...
+{% endtab %}
 
-### tab curl
+{% tab title="tab2_title" %}
+Content for second tab ...
+{% endtab %}
 
-tab content Social-Media
-
-### tab node.js
-
-tab content Contact
-
-### tab axios
-
-tab content Revisions
-
-content below tabbed region
-
-Make sure to replace the placeholders in the above command with your actual values.
+{% endtabs %}
 
 Please note that this document assumes the base URL for the API to be `https://api.offsetdata.com/graphql`. Adjust the base URL if necessary.
 
