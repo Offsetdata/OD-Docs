@@ -49,6 +49,11 @@ graphql mutation {
 
 Here's an example cURL command to perform the `nftMap` mutation:
 
+
+
+{% tabs %}
+
+{% tab title="curl" %}
 ```bash
 curl -X POST \
   -H "Content-Type: application/json" \
@@ -57,15 +62,55 @@ curl -X POST \
   }' \
   https://api.offsetdata.com/graphql
 ```
-
-{% tabs %}
-
-{% tab title="tab1_title" %}
-Content for first tab ...
 {% endtab %}
 
-{% tab title="tab2_title" %}
-Content for second tab ...
+{% tab title="Node.js" %}
+```bash
+const fetch = require('node-fetch');
+
+const apiUrl = 'https://api.offsetdata.com/graphql';
+const apiKey = 'od-0000000000000000000000000000000000000000000';
+const chain = 'eth';
+const tokenAddress = '0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3';
+const tokenId = '3650';
+
+const query = `
+  mutation {
+    nftMap(meta: {
+      apikey: "${apiKey}",
+      chain: "${chain}",
+      tokenAddress: "${tokenAddress}",
+      tokenId: "${tokenId}"
+    }) {
+      status
+    }
+  }
+`;
+
+fetch(apiUrl, {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ query }),
+})
+  .then(response => response.json())
+  .then(({ data }) => {
+    const { status } = data.nftMap;
+    console.log('Mapping status:', status);
+  })
+  .catch(error => console.error('Error:', error));
+
+```
+{% endtab %}
+
+{% tab title="Javascript Axios" %}
+```bash
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "mutation { nftMap(meta: { apikey: \"od-0000000000000000000000000000000000000000000\", chain: \"eth\", tokenAddress: \"0xb334a4eb0a2d6cc24fd451e779c002b9b33228c3\", tokenId: \"3650\" }) { status } }"
+  }' \
+  https://api.offsetdata.com/graphql
+```
 {% endtab %}
 
 {% endtabs %}
