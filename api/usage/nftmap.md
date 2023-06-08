@@ -47,12 +47,9 @@ graphql mutation {
 
 #### Code Examples
 
-Here's an some code examples of how `nftMap` mutation can be used in various cases:
-
-
+Here atre some code examples of how `nftMap` endpoint can be used in various cases:
 
 {% tabs %}
-
 {% tab title="curl" %}
 ```bash
 curl -X POST \
@@ -145,8 +142,6 @@ print('Mapping status:', status)
 
 ```
 {% endtab %}
-
-
 {% endtabs %}
 
 Please note that this document assumes the base URL for the API to be `https://api.offsetdata.com/graphql`. Adjust the base URL if necessary.
