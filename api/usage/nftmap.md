@@ -24,13 +24,13 @@ The mutation allows you to specify the necessary parameters and returns the stat
 
 The `nftMap` mutation returns an object with the following fields:
 
-| Field    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `status` | String | <p>The status of the mapping process. Possible values: <br><br><mark style="color:green;"><code>Mapped</code></mark> (if the token does not exist and is being mapped to Offsetdata), <br><br><mark style="color:red;"><code>Token already exists</code></mark> (if the token already exists and mapping is not needed),<br><br> <mark style="color:red;"><code>Failed to get token URI on eth</code></mark> (if the token does not exist on the provided chain, eg. Ethereum)<br><br><mark style="color:red;"><code>Chain not supported</code></mark> (if a non-supported chain is provided), "Invalid Key" (if an invalid API key is provided).</p> |
+| Field    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `status` | String | <p>The status of the mapping process. Possible values:<br><br><mark style="color:green;"><code>Mapped</code></mark> (if the token does not exist and is being mapped to Offsetdata),<br><br><mark style="color:red;"><code>Token already exists</code></mark> (if the token already exists and mapping is not needed),<br><br><mark style="color:red;"><code>Failed to get token URI on eth</code></mark> (if the token does not exist on the provided chain, eg. Ethereum)<br><br><mark style="color:red;"><code>Chain not supported</code></mark> (if a non-supported chain is provided), "Invalid Key" (if an invalid API key is provided).</p> |
 
 #### Example Usage
 
-The following example demonstrates how to use the `nftMap` mutation to map an NFT token to OffsetData:
+The following example demonstrates how to use the `nftMap` mutation to map an NFT token to Offsetdata:
 
 ```graphql
 graphql mutation {
@@ -57,7 +57,9 @@ curl -X POST \
   }' \
   https://api.offsetdata.com/graphql
 ```
+
 ## title {.tabset .tabset-fade}
+
 content above tabbed region.
 
 ### tab curl
@@ -66,12 +68,11 @@ tab content Social-Media
 
 ### tab node.js
 
-tab content  Contact
+tab content Contact
 
 ### tab axios
 
-tab content  Revisions
-
+tab content Revisions
 
 content below tabbed region
 
