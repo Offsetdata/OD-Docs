@@ -16,8 +16,8 @@
 * [Usage](api/usage.md)
   * [nftMap](api/usage/nftmap.md)
   * [nftGet](api/usage/nftget.md)
-  * [dataAdd](api/usage/dataadd.md)
-  * [dataFind](api/usage/datafind.md)
+  <!-- * [dataAdd](api/usage/dataadd.md)
+  * [dataFind](api/usage/datafind.md) -->
 
   <!-- * [nftAdd](api/usage/nftadd.md)
   * [nftDel](api/usage/nftdel.md)
