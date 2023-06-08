@@ -12,21 +12,21 @@ The mutation allows you to specify the necessary parameters and returns the stat
 
 #### Parameters
 
-| Name                | Type   | Description                                                                    |
-| ------------------- | ------ | ------------------------------------------------------------------------------ |
-| `meta`              | Object | An object containing metadata for the NFT mapping process.                     |
-| `meta.apikey`       | String | The API key used for authentication.                                           |
-| `meta.chain`        | String | The blockchain network on which the NFT is located (e.g., "eth" for Ethereum). |
-| `meta.tokenAddress` | String | The address of the NFT contract to which the token belongs.                    |
-| `meta.tokenId`      | String | The unique identifier of the NFT token to be mapped.                           |
+| Name                | Type   | Description                                                                |
+| ------------------- | ------ | -------------------------------------------------------------------------- |
+| `meta`              | Object | An object containing metadata for the NFT mapping process.                 |
+| `meta.apikey`       | String | API key used for authentication.                                           |
+| `meta.chain`        | String | Blockchain network on which the NFT is located (e.g., "eth" for Ethereum). |
+| `meta.tokenAddress` | String | Address of the NFT contract to which the token belongs.                    |
+| `meta.tokenId`      | String | Unique identifier of the NFT token to be mapped.                           |
 
 #### Response
 
 The `nftMap` mutation returns an object with the following fields:
 
-| Field    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| -------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `status` | String | <p>The status of the mapping process. Possible values:<br><br><mark style="color:green;"><code>Mapped</code></mark> (if the token does not exist and is being mapped to Offsetdata),<br><br><mark style="color:red;"><code>Token already exists</code></mark> (if the token already exists and mapping is not needed),<br><br><mark style="color:red;"><code>Failed to get token URI on eth</code></mark> (if the token does not exist on the provided chain, eg. Ethereum)<br><br><mark style="color:red;"><code>Chain not supported</code></mark> (if a non-supported chain is provided), "Invalid Key" (if an invalid API key is provided).</p> |
+| Field    | Type   | Response                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `status` | String | <p><br><mark style="color:green;"><code>Mapped</code></mark> (if the token does not exist and is being mapped to Offsetdata),<br><br><mark style="color:red;"><code>Token already exists</code></mark> (if the token already exists and mapping is not needed),<br><br><mark style="color:red;"><code>Failed to get token URI on eth</code></mark> (if the token does not exist on the provided chain, eg. Ethereum)<br><br><mark style="color:red;"><code>Chain not supported</code></mark> (if a non-supported chain is provided), "Invalid Key" (if an invalid API key is provided).</p> |
 
 #### Example
 
