@@ -57,6 +57,23 @@ curl -X POST \
   }' \
   https://api.offsetdata.com/graphql
 ```
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab curl
+
+tab content Social-Media
+
+### tab node.js
+
+tab content  Contact
+
+### tab axios
+
+tab content  Revisions
+
+
+content below tabbed region
 
 Make sure to replace the placeholders in the above command with your actual values.
 
