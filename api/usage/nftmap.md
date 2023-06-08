@@ -148,3 +148,5 @@ Please note that this document assumes the base URL for the API to be `https://a
 
 The response from the API will contain the status of the mapping process in the `data.nftMap.status` field.
 
+Make sure to replace `"API_KEY"` with your actual API key to authenticate the request.
+
