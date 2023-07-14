@@ -55,6 +55,7 @@
 
 * [Installation](chrome-extension/installation.md)
 * [Usage](chrome-extension/usage.md)
+* [Supported Chains](chrome-extension/supported-chains.md)
 
 ## ▫ AI MODEL
 
