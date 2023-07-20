@@ -3,7 +3,7 @@ description: >-
   We are not ready just yet, but you can join the beta program and help shape
   the future of Web3 development today!  
   https://Offsetdata.com/blog/beta-testing-program/
-cover: .gitbook/assets/video-bg-green.jpg
+cover: .gitbook/assets/BG.png
 coverY: 0
 ---
 
@@ -39,7 +39,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### SDK
 
-* [Usage](sdk/usage.md): Get started with Offsetdata's SDK and learn how to leverage its functionalities in your projects.
+* [Usage](broken-reference): Get started with Offsetdata's SDK and learn how to leverage its functionalities in your projects.
 * [Installation:](sdk/installation.md) Follow the installation instructions for integrating the Offsetdata SDK into your development environment.
 * [Update/Remove](sdk/update-remove.md): Learn how to update or remove the Offsetdata SDK from your project.
 * [Endpoints:](sdk/endpoints.md) Discover the available endpoints and functionalities provided by the Offsetdata SDK.
@@ -66,10 +66,10 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### Pricing
 
-* [Prices](pricing/prices.md): Explore the pricing plans and options available for Offsetdata's services.
-* [Payment Methods](pricing/payment-methods.md): Understand the supported payment methods for subscribing to Offsetdata's plans.
-* [Units Explained](pricing/units-explained.md): Get familiar with the units and measurements used in Offsetdata's pricing structure.
-* [Upgrade](https://chat.openai.com/pricing/upgrade.md)[:](pricing/upgrade.md) Learn how to upgrade your Offsetdata plan to access additional features and resources.
+* [Prices](broken-reference): Explore the pricing plans and options available for Offsetdata's services.
+* [Payment Methods](broken-reference): Understand the supported payment methods for subscribing to Offsetdata's plans.
+* [Units Explained](broken-reference): Get familiar with the units and measurements used in Offsetdata's pricing structure.
+* [Upgrade](https://chat.openai.com/pricing/upgrade.md)[:](broken-reference) Learn how to upgrade your Offsetdata plan to access additional features and resources.
 
 ### Links
 

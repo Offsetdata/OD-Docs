@@ -1,12 +1,12 @@
 ---
 description: Version Details
-cover: .gitbook/assets/video-bg-green.jpg
+cover: .gitbook/assets/BG.png
 coverY: 0
 ---
 
 # 🟢 Version
 
-## Current Versions&#x20;
+## Current Versions
 
 This documentation provides an overview of the different versions of the components related to Offsetdata. Each version corresponds to a specific component and includes information about its purpose and features.
 
@@ -14,7 +14,7 @@ This documentation provides an overview of the different versions of the compone
 
 [https://offsetdata.com](https://offsetdata.com)
 
-Front-end component Offsetdata landing&#x20;
+Front-end component Offsetdata landing
 
 ### App Version: 0.1.6 Beta
 
@@ -30,7 +30,7 @@ The API version 0.6.5 Beta is the back-end component of Offsetdata that enables 
 
 [https://www.npmjs.com/package/offsetdata](https://www.npmjs.com/package/offsetdata)
 
-The SDK version 1.1.1 is a software development kit (SDK) that simplifies the integration process of Offsetdata's services into your applications. It offers  Node Package Manager (NPM) package for data and NFT queries. It provides a convenient way to install and integrate Offsetdata's services into your Node.js or JavaScript projects. This version includes bug fixes, performance enhancements, and additional features compared to previous versions. It ensures a smooth integration process with Offsetdata's platform.
+The SDK version 1.1.1 is a software development kit (SDK) that simplifies the integration process of Offsetdata's services into your applications. It offers Node Package Manager (NPM) package for data and NFT queries. It provides a convenient way to install and integrate Offsetdata's services into your Node.js or JavaScript projects. This version includes bug fixes, performance enhancements, and additional features compared to previous versions. It ensures a smooth integration process with Offsetdata's platform.
 
 Note: The versions mentioned above represent the current state of each component at the time of this documentation. It's essential to check for the latest releases and updates from Offsetdata to take advantage of new features and improvements. Always refer to the official documentation or the respective repositories for detailed information about each component's version-specific features and instructions.
 
@@ -39,8 +39,3 @@ Note: The versions mentioned above represent the current state of each component
 [https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec)
 
 The Chrome Extension version 0.0.4 is a browser extension that allows users to interact with Offsetdata's services directly from their Google Chrome browser. It provides seamless integration for data submission, validation, and other related functionalities. Version 1.0.2 includes bug fixes and improvements to enhance the user experience.
-
-
-
-
-
