@@ -16,15 +16,15 @@ This documentation provides an overview of the different versions of the compone
 
 Front-end component Offsetdata landing
 
-### App Version: 0.1.6 Beta
+### App Version: 0.1.8 Beta
 
 [https://app.offsetdata.com](https://app.offsetdata.com)
 
 Offsetdata application offers a convenient way to access and utilize Offsetdata's services on your mobile device and computer. This version is currently in the beta stage, providing basic functionality. It may include new features and bug fixes compared to earlier versions.
 
-### API Version: 0.6.5 Beta
+### API Version: 0.6.8 Beta
 
-The API version 0.6.5 Beta is the back-end component of Offsetdata that enables developers to interact with the platform programmatically. It provides a set of endpoints and functionalities for data submission, retrieval, and validation. This version is currently in the beta stage, and it may contain additional features and improvements compared to previous versions.
+The API version 0.6.8 Beta is the back-end component of Offsetdata that enables developers to interact with the platform programmatically. It provides a set of endpoints and functionalities for data submission, retrieval, and validation. This version is currently in the beta stage, and it may contain additional features and improvements compared to previous versions.
 
 ### SDK Version: 1.1.1
 

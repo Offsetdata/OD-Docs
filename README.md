@@ -23,7 +23,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### Version
 
-* [Version](version.md): Check the current version of the Offsetdata Web3 tools o ensure you are using the latest version of the product
+* [Version](version.md): Check the current version of the Offsetdata Web3 tools to ensure you are using the latest version of the product.
 
 ### General
 
