@@ -9,7 +9,7 @@ Polygon (MATIC): The extension allows you to activate and manage web3 data on th
 
 Base Chain: The extension supports the Coinbase Base Chain. However, please note that the extension supports a testnet version of the base chain.
 
-Camino: The extension enables you to activate and work with web3 data on the Camino testnet (Columbus).
+Camino Network: The extension enables you to activate and work with web3 data on the Camino testnet (Columbus).
 
 Binance Smart Chain (BSC): The extension supports BSC's testnet, allowing you to manage web3 data on the Binance Smart Chain. BSC is a popular blockchain platform for decentralized applications (dApps) and token transfers.
 

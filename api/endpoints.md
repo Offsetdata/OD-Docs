@@ -62,13 +62,13 @@ The nftMapAll endpoint allows you to map whole collection, specific range of nft
 
 * [dataAdd](broken-reference)
 
-The dataAdd endpoint allows you to add data to a specified chain (Polygon, Binance Smart Chain, BASE Chain, Polygon ZkEvm). It is used for `Simple` or `Advanced` data records.
+The dataAdd endpoint allows you to add data to a specified chain (Polygon, Binance Smart Chain, BASE Chain, Camino Network, Polygon ZkEvm). It is used for `Simple` or `Advanced` data records.
 
 ### Data Verify:
 
 * [dataVerify](broken-reference)
 
-The dataVerify endpoint allows you to verify verify the integrity of data stored on a specified chain (Polygon, Binance Smart Chain, BASE Chain, Polygon ZkEvm). It is used for `Simple` or `Advanced` data records.
+The dataVerify endpoint allows you to verify verify the integrity of data stored on a specified chain (Polygon, Binance Smart Chain, BASE Chain, Camino Network, Polygon ZkEvm). It is used for `Simple` or `Advanced` data records.
 
 ### Data Find:
 
