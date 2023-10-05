@@ -29,8 +29,11 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 * [What is Offsetdata](general/what-is-Offsetdata.md): Learn about Offsetdata and its role in securely storing web3 data on the blockchain.
 * [Web3 Data](general/web3-data.md): Explore the concept of web3 data and how it differs from traditional web data.
-* [NFT Metadata:](general/nft-metadata.md) Understand the significance of NFT metadata and its role in enhancing the value and functionality of NFTs.
-* [NFT Layers](general/nft-layers.md): Discover how NFT layering adds additional functionality and customization to NFTs, expanding their potential use cases.
+* [Data Lake](general/data-lake.md): Explore the concept of Data Lakes on Offsetdata
+* [Data Collection](general/data-collection.md): Explore the concept of Data Collections on Offsetdata
+* [Single Data Record](general/single-data-record.md): Explore the concept of Single Data Record on Offsetdata
+* [Data Marketplace](general/data-marketplace.md): What is data marketplace and how can I use it?
+use cases.
 
 ### API
 
