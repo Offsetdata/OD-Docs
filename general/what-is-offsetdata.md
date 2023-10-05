@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Offsetdata is a Software-as-a-Service (SaaS) that specializes in helping Web2 and Web3 companies and individuals securely store their data on the blockchain. Our platform offers a seamless integration process, allowing users to submit data via API, Chrome extension, or NPM package. This documentation aims to provide an overview of Offsetdata's core features and functionality.
+Offsetdata is a Software-as-a-Service (SaaS) that specializes in verifiable data marketplace powered by blockchain that connects data buyers to sellers for easy monetisation. Our platform offers a seamless integration process, allowing users to submit data via API, Chrome extension, or NPM package. This documentation aims to provide an overview of Offsetdata's core features and functionality.
 
 ### How Offsetdata Works
 
