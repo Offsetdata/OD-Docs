@@ -7,15 +7,19 @@
 
 * [What is Offsetdata](general/what-is-offsetdata.md)
 * [Web3 Data](general/web3-data.md)
-* [NFT Metadata](general/nft-metadata.md)
-* [NFT Layers](general/nft-layers.md)
+* [Data Lake](general/data-lake.md)
+* [Data Collection](general/data-collection.md)
+* [Single Data Record](general/single-data-record.md)
+* [Data Marketplace](general/data-marketplace.md)
+<!-- * [NFT Metadata](general/nft-metadata.md)
+* [NFT Layers](general/nft-layers.md) -->
 
 ## ▫ API
 
 * [Endpoints](api/endpoints.md)
 * [Usage](api/usage.md)
-  * [nftMap](api/usage/nftmap.md)
-  * [nftGet](api/usage/nftget.md)
+  <!-- * [nftMap](api/usage/nftmap.md)
+  * [nftGet](api/usage/nftget.md) -->
   <!-- * [dataAdd](api/usage/dataadd.md)
   * [dataFind](api/usage/datafind.md) -->
 
