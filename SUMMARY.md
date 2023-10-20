@@ -41,7 +41,7 @@
 ## ▫ AI MODEL
 
 * [Usage](ai-model/usage.md)
-* [Training](ai-model/training.md)
+* [Using Offsetdata for AI Training](ai-model/training.md)
 
 ## ▫ Links
 
