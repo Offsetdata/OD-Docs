@@ -2,7 +2,10 @@
 
 ## Introduction:
 
-NFTs (Non-Fungible Tokens) have gained significant popularity in recent years as a form of digital asset ownership and representation. While the token itself represents a unique item, such as a piece of digital artwork, collectible, or virtual real estate, the associated metadata provides essential information and context about the NFT. In this documentation, we will explain what NFT metadata is and its significance in the NFT ecosystem.
+NFTs (Non-Fungible Tokens) have gained significant popularity in recent years as a form of digital asset ownership and representation. While the token itself represents a unique item, such as a piece of digital artwork, collectable, or virtual real estate, the associated metadata provides essential information and context about the NFT. In this documentation, we will explain what NFT metadata is and its significance in the NFT ecosystem.
+
+You can try NFT metadata on Offsetdata Playground environment\
+[https://app.offsetdata.com/playground/nft](https://app.offsetdata.com/playground/nft)
 
 ## What is NFT Metadata?
 

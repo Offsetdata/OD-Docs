@@ -6,7 +6,9 @@ description: >-
 
 # Playground
 
-The Offsetdata Playground Page is a powerful tool designed to experiment with various functions related to NFT metadata and Mapping.
+The Offsetdata Playground Page is a powerful tool designed to experiment with various functions related to NFT metadata and Mapping.\
+\
+[https://app.offsetdata.com/playground/nft](https://app.offsetdata.com/playground/nft)
 
 ## NFT Metadata Display (Demo)
 

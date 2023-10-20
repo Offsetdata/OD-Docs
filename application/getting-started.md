@@ -38,11 +38,11 @@ The Developer Documentation option provides a comprehensive guide for developers
 
 Get API Key option allows you to create an API key, which enables you to start using Offsetdata APIs within your project. This feature grants you access to the powerful capabilities of Offsetdata's data verification, record submission, NFT display, and other tools. Click on this option to generate an [API keys](api-keys.md) and start building your application.
 
-#### Options Flicker
+#### Options Flicker ([https://app.offsetdata.com/playground/nft](https://app.offsetdata.com/playground/nft))
 
 Options Flicker is a tool that enables you to toggle between different metadata options on digital assets. This tool is particularly useful for exploring and analyzing various metadata configurations associated with your digital assets. Use this option to access the Options Flicker tool on NFT [Playground](playground.md) and leverage its functionalities.
 
-#### NFT Display
+#### NFT Display ([https://app.offsetdata.com/playground/nft](https://app.offsetdata.com/playground/nft))
 
 The NFT Display component allows you to showcase NFTs on your platform in a visually appealing manner. This component enhances the presentation of your NFT collection and provides an immersive experience for your users. Click on this option to access the NFT Display component and start experimenting with its possibilities.
 
