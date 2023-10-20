@@ -9,6 +9,7 @@
 * [Web3 Data](general/web3-data.md)
 * [NFT Metadata](general/nft-metadata.md)
 * [NFT Layers](general/nft-layers.md)
+* [Data Security](general/nft-layers-1.md)
 
 ## ▫ API
 
