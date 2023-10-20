@@ -2,7 +2,6 @@
 
 ## Offsetdata Chrome Extension
 
-
 The Offsetdata Chrome Extension supports several public blockchains, primarily on their respective testnets. Here are the currently supported chains:
 
 Polygon (MATIC): The extension allows you to activate and manage web3 data on the Polygon testnet. Polygon is a scaling solution for Ethereum, offering fast and low-cost transactions.
@@ -15,8 +14,12 @@ Binance Smart Chain (BSC): The extension supports BSC's testnet, allowing you to
 
 ZK-EVM: The extension provides support for the Polygon ZK-EVM testnet. ZK-EVM combines zero-knowledge proofs with Ethereum's virtual machine (EVM), enabling scalable and privacy-preserving smart contracts.
 
-Please note that the Beta version of the extension focus on testnet environments rather than the mainnet versions of these blockchains.
+Please note that the Beta version of the extension focuses on testnet environments rather than the mainnet versions of these blockchains.
+
+
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Happy Usage
 
-[Offsetdata - Blockchain Data Storage](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec) 
+[Offsetdata - Blockchain Data Storage](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec)
