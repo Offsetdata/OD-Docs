@@ -16,15 +16,15 @@ This documentation provides an overview of the different versions of the compone
 
 Front-end component Offsetdata landing
 
-### App Version: 0.1.8 Beta
+### App Version: 0.2.2 Beta
 
 [https://app.offsetdata.com](https://app.offsetdata.com)
 
 Offsetdata application offers a convenient way to access and utilize Offsetdata's services on your mobile device and computer. This version is currently in the beta stage, providing basic functionality. It may include new features and bug fixes compared to earlier versions.
 
-### API Version: 0.7.0 Beta
+### API Version: 0.8.0 Beta
 
-The API version 0.7.0 Beta is the back-end component of Offsetdata that enables developers to interact with the platform programmatically. It provides a set of endpoints and functionalities for data submission, retrieval, and validation. This version is currently in the beta stage, and it may contain additional features and improvements compared to previous versions.
+The API version 0.8.0 Beta is the back-end component of Offsetdata that enables developers to interact with the platform programmatically. It provides a set of endpoints and functionalities for data submission, retrieval, and validation. This version is currently in the beta stage, and it may contain additional features and improvements compared to previous versions.
 
 ### SDK Version: 1.1.1
 
@@ -39,3 +39,6 @@ Note: The versions mentioned above represent the current state of each component
 [https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec)
 
 The Chrome Extension version 0.0.4 is a browser extension that allows users to interact with Offsetdata's services directly from their Google Chrome browser. It provides seamless integration for data submission, validation, and other related functionalities. Version 1.0.2 includes bug fixes and improvements to enhance the user experience.
+
+
+### Marketplace Version: 0.0.1 Beta
