@@ -15,6 +15,8 @@ Offsetdata is a Software-as-a-Service (SaaS) that specializes in verifiable data
 5. Data Validation: Users have the ability to validate their data using Offsetdata's validation feature. By comparing the stored hash on the blockchain with the original data, users can ensure data integrity and verify its authenticity.
 6. GDPR Compliance: Offsetdata is fully compliant with the General Data Protection Regulation (GDPR). If users require their data to be edited or removed, Offsetdata can delete the original record from our database. Once deleted, the stored original hash becomes impossible to decrypt and read.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Benefits of Offsetdata
 
 1. Data Security: By leveraging blockchain technology, Offsetdata provides enhanced security for data storage and ensures its integrity.
@@ -26,3 +28,5 @@ Offsetdata is a Software-as-a-Service (SaaS) that specializes in verifiable data
 ### In Short
 
 Offsetdata offers a secure and efficient solution for Web2 and Web3 companies looking to store their data on the blockchain. By leveraging encryption, hashing, and smart contracts, we provide data integrity, transparency, and verification capabilities. With GDPR compliance and seamless integration options, Offsetdata is a trusted partner for companies aiming to enhance the security and reliability of their data storage.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

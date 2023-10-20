@@ -62,7 +62,7 @@ The Data Verification process ensures the accuracy and validity of data associat
 
 Throughout your usage of the Offsetdata App, you can always return to the welcome page by clicking on the Offsetdata logo located at the top left corner of the app. \
 \
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 This provides a convenient way to access the available options and navigate between different features of the app.
 
 
