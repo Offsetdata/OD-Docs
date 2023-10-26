@@ -47,10 +47,10 @@
 
 * [Important Links](links/important-links.md)
 
-## ◻ Data Licenses
+## ▫ Data Licenses
 
 * [CC0 1.0 DEED](data-licenses/cc0-1.0-deed.md)
-* [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
 * [ODC](data-licenses/odc.md)
 * [GPL-2](data-licenses/gpl-2.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
+* [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
