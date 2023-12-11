@@ -62,7 +62,11 @@ description: >-
 
       ### Images
 
-      ![Minion](https://lh3.googleusercontent.com/OYN5B\_SGg9auoUOGRq3hrTpi32f4KQ9DrQE\_XMenjT8WvWEfdc76M-7l1f-VoWC2KlBadOViashEJ-r4YQtGAdhQwrA=s120)
+      <div align="left">
+
+      <img src="https://lh3.googleusercontent.com/OYN5B_SGg9auoUOGRq3hrTpi32f4KQ9DrQE_XMenjT8WvWEfdc76M-7l1f-VoWC2KlBadOViashEJ-r4YQtGAdhQwrA=s120" alt="Minion">
+
+      </div>
 
       ***
 
