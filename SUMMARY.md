@@ -31,6 +31,8 @@
 * [Dashboard](application/dashboard.md)
 * [Playground](application/playground.md)
 * [Status Page](application/status-page.md)
+* [Datalake](application/datalake/README.md)
+  * [Collection](application/datalake/collection.md)
 
 ## ▫ CHROME EXTENSION
 
