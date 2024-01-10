@@ -49,13 +49,13 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### Application
 
-- [Usage](https://docs.offsetdata.com/application/usage.md)[:](broken-reference) Understand how to use the Offsetdata application effectively for managing your web3 data.
-- [Getting Started](https://docs.offsetdata.com/application/getting-started.md)[:](application/getting-started.md) Get started with the Offsetdata application and set up your account.
+- [Usage](application/usage.md)[:](broken-reference) Understand how to use the Offsetdata application effectively for managing your web3 data.
+- [Getting Started](application/getting-started.md)[:](application/getting-started.md) Get started with the Offsetdata application and set up your account.
 - [Account](broken-reference): Learn how to manage your Offsetdata account, including settings and preferences.
 - [API Keys:](application/api-keys.md) Generate and manage API keys for secure access to Offsetdata's features.
 - [Dashboard:](application/dashboard.md) Navigate and utilize the Offsetdata dashboard for data management.
 - [Playground:](application/playground.md) Explore the Offsetdata playground for testing and experimenting with data submissions.
-- [Status Page](https://docs.offsetdata.com/application/status-page.md)[:](application/status-page.md) Stay informed about Offsetdata's service status and updates through the status page.
+- [Status Page](application/status-page.md)[:](application/status-page.md) Stay informed about Offsetdata's service status and updates through the status page.
 
 ### Chrome Extension
 
@@ -72,11 +72,11 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 - [Prices](broken-reference): Explore the pricing plans and options available for Offsetdata's services.
 - [Payment Methods](broken-reference): Understand the supported payment methods for subscribing to Offsetdata's plans.
 - [Units Explained](broken-reference): Get familiar with the units and measurements used in Offsetdata's pricing structure.
-- [Upgrade](https://docs.offsetdata.com/pricing/upgrade.md)[:](broken-reference) Learn how to upgrade your Offsetdata plan to access additional features and resources.
+- [Upgrade](pricing/upgrade.md)[:](broken-reference) Learn how to upgrade your Offsetdata plan to access additional features and resources.
 
 ### Links
 
-- [Important Links](https://docs.offsetdata.com/links/important-links.md)[:](links/important-links.md) Access a curated list of important links related to Offsetdata, including official resources, community channels, and
+- [Important Links](links/important-links.md)[:](links/important-links.md) Access a curated list of important links related to Offsetdata, including official resources, community channels, and tools.
 
 ## Getting Started
 
