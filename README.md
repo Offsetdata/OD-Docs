@@ -11,7 +11,7 @@ coverY: 0
 
 [Join Beta <-](https://offsetdata.com/blog/beta-testing-program/)\
 \
-Welcome to the Offsetdata Web3 Developers Documentation! This documentation serves as a comprehensive resource for developers looking to integrate web3 data storage and retrieval capabilities into their applications. Here, you will find detailed information about Offsetdata's features, APIs, and best practices to help you get started.
+Welcome to the Offsetdata Web3 Developers Documentation! This documentation serves as a comprehensive resource for developers looking to integrate blockchain data storage and retrieval capabilities into their applications. Here, you will find detailed information about Offsetdata's features, APIs, and best practices to help you get started.
 
 ## What is Offsetdata?
 
@@ -27,7 +27,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 ### General
 
-* [What is Offsetdata](./#what-is-offsetdata): Learn about Offsetdata and its role in securely storing web3 data on the blockchain.
+* [What is Offsetdata](./#what-is-offsetdata): Learn about Offsetdata and its role in securely storing data on the blockchain.
 * [Web3 Data](general/web3-data.md): Explore the concept of web3 data and how it differs from traditional web data.
 * [Data Lake](application/datalake/): Explore the concept of Data Lakes on Offsetdata
 * [Data Collection](application/datalake/collection.md): Explore the concept of Data Collection on Offsetdata
@@ -81,7 +81,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 
 To begin integrating Offsetdata into your web3 applications, it is recommended to start with the "API Reference" section, as it provides a comprehensive overview of Offsetdata's API capabilities. Additionally, the "Integration Guides" offer detailed instructions on how to set up and use Offsetdata in different environments.
 
-We hope you find this documentation helpful, and we are excited to have you join us on the journey of leveraging web3 data storage with Offsetdata. If you have any further questions or need assistance, please don't hesitate to reach out to our support team.
+We hope you find this documentation helpful, and we are excited to have you join us on the journey of leveraging Blockchain data storage with Offsetdata. If you have any further questions or need assistance, please don't hesitate to reach out to our support team.
 
 Happy coding!
 
