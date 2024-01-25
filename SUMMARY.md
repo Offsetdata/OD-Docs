@@ -6,9 +6,9 @@
 ## ▫ GENERAL
 
 * [What is Offsetdata](general/what-is-offsetdata.md)
+* [Use Cases](general/use-cases.md)
 * [Blockchain As Storage](general/blockchain-as-storage.md)
 * [Data Security](general/data-security.md)
-* [Use Cases](general/use-cases.md)
 
 ## ▫ Data Marketplace
 
