@@ -6,18 +6,22 @@
 ## ▫ GENERAL
 
 * [What is Offsetdata](general/what-is-offsetdata.md)
+* [Blockchain As Storage](general/blockchain-as-storage.md)
 * [Web3 Data](general/web3-data.md)
 * [Data Security](general/data-security.md)
-* [Blockchain As Storage](general/blockchain-as-storage.md)
-* [Selling Data](general/selling-data.md)
-* [Buying Data](general/buying-data.md)
+* [Selling Data](general/nft-metadata.md)
+* [Buying Data](general/nft-layers.md)
+
+***
+
+* [Page](page.md)
 
 ## ▫ API
 
 * [Endpoints](api/endpoints.md)
 * [Usage](api/usage.md)
-  * [nftMap](api/usage/nftmap.md)
-  * [nftGet](api/usage/nftget.md)
+  * [dataAdd](api/usage/data-add.md)
+  * [dataVerify](api/usage/data-verify.md)
 
 ## ▫ SDK
 

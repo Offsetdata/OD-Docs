@@ -1,8 +1,6 @@
 # What is Offsetdata
 
-## What is Offsetdata?
-
-### Introduction
+## What is Offsetdata app, service or tool?
 
 Offsetdata is a Software-as-a-Service (SaaS) that specializes in verifiable data queries and storage powered by blockchain that connects data buyers to sellers for easy monetisation. Our platform offers a seamless integration process, allowing users to submit data via API, Chrome extension, Web Portal or NPM package. This documentation aims to provide an overview of Offsetdata's core features and functionality.
 
