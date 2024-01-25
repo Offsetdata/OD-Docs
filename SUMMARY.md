@@ -8,8 +8,9 @@
 * [What is Offsetdata](general/what-is-offsetdata.md)
 * [Web3 Data](general/web3-data.md)
 * [Data Security](general/data-security.md)
-* [NFT Metadata](general/nft-metadata.md)
-* [NFT Layers](general/nft-layers.md)
+* [Blockchain As Storage](general/blockchain-as-storage.md)
+* [Selling Data](general/selling-data.md)
+* [Buying Data](general/buying-data.md)
 
 ## ▫ API
 
