@@ -5,29 +5,24 @@
 
 ## ▫ GENERAL
 
-* [What is Offsetdata](general/what-is-offsetdata.md)
-* [Blockchain As Storage](general/blockchain-as-storage.md)
-* [Web3 Data](general/web3-data.md)
 * [Data Security](general/data-security.md)
 * [Selling Data](general/nft-metadata.md)
 * [Buying Data](general/nft-layers.md)
-
-***
-
-* [Page](page.md)
+* [What is Offsetdata](general/what-is-offsetdata.md)
+* [Blockchain As Storage](general/blockchain-as-storage.md)
+* [Web3 Data](general/web3-data.md)
 
 ## ▫ API
 
 * [Endpoints](api/endpoints.md)
 * [Usage](api/usage.md)
-  * [dataAdd](api/usage/data-add.md)
-  * [dataVerify](api/usage/data-verify.md)
+  * [nftMap - data mapper \[DEPRECATED\]](api/usage/data-add.md)
 
 ## ▫ SDK
 
+* [Endpoints](sdk/endpoints.md)
 * [Installation](sdk/installation.md)
 * [Update/Remove](sdk/update-remove.md)
-* [Endpoints](sdk/endpoints.md)
 
 ## ▫ APPLICATION
 
@@ -61,3 +56,8 @@
 * [GPL-2](data-licenses/gpl-2.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
 * [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
+
+***
+
+* [DATA MARKETPLACE](data-marketplace/README.md)
+  * [Page](data-marketplace/page.md)
