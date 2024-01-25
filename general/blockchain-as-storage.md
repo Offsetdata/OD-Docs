@@ -33,3 +33,5 @@ Offsetdata's approach to blockchain-based storage ensures the creation of truste
 ## In Short
 
 Blockchain as storage with Offsetdata provides a powerful solution for enhancing the security, immutability, and transparency of stored data. By leveraging our API suite and SDK, users can seamlessly integrate blockchain storage capabilities into their applications, ensuring the creation of trusted and unalterable data sets.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

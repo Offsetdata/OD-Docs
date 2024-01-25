@@ -28,7 +28,7 @@ To make the most of the Offsetdata Web3 Developers Documentation, here's a brief
 ### General
 
 * [What is Offsetdata](./#what-is-offsetdata): Learn about Offsetdata and its role in securely storing data on the blockchain.
-* [Web3 Data](general/web3-data.md): Explore the concept of web3 data and how it differs from traditional web data.
+* [Web3 Data](broken-reference): Explore the concept of web3 data and how it differs from traditional web data.
 * [Data Lake](application/datalake/): Explore the concept of Data Lakes on Offsetdata
 * [Data Collection](application/datalake/collection.md): Explore the concept of Data Collection on Offsetdata
 * [Single Data Record](application/playground.md): Explore the concept of a Single Data Record on Offsetdata
