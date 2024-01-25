@@ -1,32 +1,50 @@
 # Selling Data
 
-## Introduction:
+## Data Seller Documentation
 
-intro on data selling
+At Offsetdata's Data Marketplace, data sellers can monetize their datasets by reaching potential buyers and organizations interested in quality data. This documentation will guide you through becoming a Data Seller on Offsetdata, from creating a seller account to listing datasets for sale and managing your profile.
 
-## What is NFT Metadata?
+### Becoming a Data Seller
 
-NFT metadata refers to the additional data that accompanies an NFT, providing detailed information about the token and its associated digital asset. It includes various attributes and properties that describe the NFT, including its name, description, image or video file, audio file, external links, and other relevant data. This metadata is stored on-chain or off-chain, depending on the NFT standard and platform being used.
+To become a Data Seller on Offsetdata, follow these steps:
 
-## Components of NFT Metadata:
+1. **Create a Seller Account:**
+   * Register for a seller account on the Offsetdata platform.
+   * Provide the necessary information to set up your seller profile.
+2. **Set Up Your Profile:**
+   * Personalize your seller profile with relevant details such as your expertise, industry focus, and the types of datasets you offer.
+   * Highlight your data's strengths, unique features, and any specific geographic coverage.
 
-1. Name: The name of the NFT, which is typically chosen by the creator or artist. It helps in identifying and differentiating the NFT from others.
-2. Description: A textual description that provides additional context, background information, or a story related to the NFT. This helps potential buyers or collectors understand the significance and value of the digital asset.
-3. Image or Video File: A visual representation of the NFT, typically in the form of an image or a video file. It showcases the artwork, collectible item, or any other digital asset associated with the NFT. This file is usually stored off-chain and referenced in the metadata.
-4. Audio File: In some cases, NFTs may include audio elements, such as music, sound effects, or spoken word. An audio file can be included in the metadata to enhance the overall experience and value of the NFT.
-5. Attributes: Attributes provide specific characteristics or properties associated with the NFT. These can be predefined traits, such as color, rarity, edition number, or dynamically generated attributes based on the underlying digital asset.
-6. External Links: NFT metadata can include external links that direct users to relevant websites, social media profiles, or additional resources related to the NFT or its creator. These links can provide more information or facilitate engagement with the NFT's community.
+### Listing Datasets for Sale
 
-## NFT Metadata Use Case:
+Once your seller account is set up, you can list datasets for sale:
 
-NFT metadata serves several crucial purposes within the NFT ecosystem:
+1. **Add a New Dataset:**
+   * Create new collection page&#x20;
+   * Click on the "Upload Data" button.
+   * Fill in details about the dataset, including its title, description, image
+2. **List For Sale:**
+   * Specify the price for your dataset.
+   * Choose a suitable license for users to adhere to when purchasing your data.
+   * Define the geographical coverage of your dataset, such as Europe, USA, etc.
+3. **Profit Sharing:**
+   * For each dataset purchase, you receive 92% of the total profit.
+   * Offsetdata collects an 8% marketplace fee to maintain and enhance the Data Marketplace.
 
-1. Identification and Verification: Metadata helps identify and verify the authenticity and uniqueness of an NFT. It ensures that each NFT has a distinct identity and prevents counterfeiting or duplication.
-2. Context and Understanding: Metadata provides valuable context and information about the NFT, helping collectors and enthusiasts understand its background, creator, and associated digital asset.
-3. Discoverability: Metadata, including name, description, and attributes, enables easy search and discovery of NFTs within marketplaces or platforms. It allows users to filter and find specific NFTs based on their preferences or interests.
-4. Showcase and Presentation: The image, video, and audio files in the metadata allow the NFT to be visually and audibly showcased to potential buyers, creating a more immersive and engaging experience.
-5. Community Engagement: External links in the metadata facilitate community engagement by directing users to the NFT creator's website, social media channels, or other platforms. This encourages interaction, collaboration, and support within the NFT community.
+### Data as a Service (DaaS)
 
-## In Short
+Data Sellers, B2B businesses, and scientists can leverage Offsetdata's Data as a Service (DaaS) model to generate additional revenue. DaaS allows users to access datasets on a subscription basis, offering a recurring revenue stream for data providers.
 
-NFT metadata plays a vital role in providing valuable information, context, and presentation for non-fungible tokens. It enhances the overall experience of owning and interacting with NFTs while allowing collectors and enthusiasts to understand the unique aspects of each token. By leveraging metadata effectively, NFT creators and platforms can enable better discoverability, authentication, and engagement, contributing to the growth and development of Web3 ecosystem.
+### Request Dataset
+
+Offsetdata facilitates communication between buyers and sellers:
+
+1. **Request Dataset:**
+   * Buyers can use the "Request Dataset" button to express interest in specific datasets.
+   * Sellers receive these requests and can respond to inquiries, providing additional details about the dataset or negotiating terms.
+2. **Enquiry Management:**
+   * Sellers can manage enquiries about licenses, usage rights, or pricing directly through the Offsetdata platform.
+
+### Conclusion
+
+Becoming a Data Seller on Offsetdata opens up new revenue generation and collaboration avenues within the data ecosystem. Take advantage of our Data Marketplace to showcase and monetize your datasets, connect with potential buyers, and contribute to the growth of the data-driven community. If you have any questions or need further assistance, feel free to contact our support team at support@offsetdata.com. Happy selling!
