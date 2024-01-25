@@ -9,6 +9,7 @@
 * [Blockchain As Storage](general/blockchain-as-storage.md)
 * [Data Security](general/data-security.md)
 * [Web3 Data](general/web3-data.md)
+* [Use Cases](general/use-cases.md)
 
 ## ▫ Data Marketplace
 
