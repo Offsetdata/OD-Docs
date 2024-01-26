@@ -59,3 +59,4 @@
 * [GPL-2](data-licenses/gpl-2.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
 * [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
+* [CUSTOM](data-licenses/custom.md)
