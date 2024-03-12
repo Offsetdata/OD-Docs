@@ -28,7 +28,7 @@ To install the Offsetdata package and integrate it into your project, follow the
 3.  Run the following command to install the Offsetdata package:
 
     ```
-    install offsetdata
+    npm install offsetdata
     ```
 
     This command will fetch the package from the official NPM registry and install it locally within your project.
