@@ -20,9 +20,9 @@ To become a Data Seller on Offsetdata, follow these steps:
 Once your seller account is set up, you can list datasets for sale:
 
 1. **Add a New Dataset:**
-   * Create new collection page&#x20;
+   * Create new collection page.
    * Click on the "Upload Data" button.
-   * Fill in details about the dataset, including its title, description, image
+   * Fill in details about the dataset, including its title, description, image.
 2. **List For Sale:**
    * Specify the price for your dataset.
    * Choose a suitable license for users to adhere to when purchasing your data.
