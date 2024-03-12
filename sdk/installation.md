@@ -28,7 +28,7 @@ To install the Offsetdata package and integrate it into your project, follow the
 3.  Run the following command to install the Offsetdata package:
 
     ```
-    install offsetdata
+    npm install offsetdata
     ```
 
     This command will fetch the package from the official NPM registry and install it locally within your project.
@@ -51,7 +51,8 @@ To install the Offsetdata package and integrate it into your project, follow the
     ```
     {% endcode %}
 
-This line imports the Offsetdata package, making its functionalities available within your project. 5. You can now use the Offsetdata package in your code to submit and store data securely on the blockchain using Offsetdata's services. Refer to the Offsetdata documentation or the package's API reference for information on how to utilize its features effectively.
+    This line imports the Offsetdata package, making its functionalities available within your project. 
+5.  You can now use the Offsetdata package in your code to submit and store data securely on the blockchain using Offsetdata's services. Refer to the Offsetdata documentation or the package's API reference for information on how to utilize its features effectively.
 
 ### Additional Configuration
 

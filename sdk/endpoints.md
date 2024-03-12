@@ -42,7 +42,7 @@ The nftUpd endpoint allows you to update the metadata and information of a speci
 
 * nftMod
 
-The nftMod endpoint allows you to modify modify the metadata and information of a specific NFT. You can modify attributes on layer 1 such as the token's title, description, symbol, token type, token URI, media details, attributes, properties, and virtual asset details.
+The nftMod endpoint allows you to modify the metadata and information of a specific NFT. You can modify attributes on layer 1 such as the token's title, description, symbol, token type, token URI, media details, attributes, properties, and virtual asset details.
 
 #### NFT Search: <a href="#nft-search" id="nft-search"></a>
 
