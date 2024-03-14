@@ -84,4 +84,4 @@ We hope you find this documentation helpful, and we are excited to have you join
 
 Happy coding!
 
-The Offsetdata Team
+The Offsetdata Team.
