@@ -85,8 +85,6 @@ Learn more about markdown at **[Offsetdata Documents](https://docs.offsetdata.co
 
 ##
 
-##
-
 ## Collection Description (Markdown Preview)
 
 \
