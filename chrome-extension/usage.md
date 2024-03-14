@@ -6,16 +6,6 @@
 
 The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features and usage instructions.
 
-### Installation
-
-To install the Offsetdata Chrome Extension, follow these steps or refer to [installation.md](installation.md "mention"):
-
-1. Open the Chrome browser on your computer.
-2. Go to the [Offsetdata - Blockchain Data Storage](https://chrome.google.com/webstore/detail/offsetdata-web3-data-mana/mleenidgghahbdmlahmkkbmeenbgnaec) page on the Chrome Web Store.
-3. Click on the "Add to Chrome" button.
-4. A confirmation dialog will appear. Click on "Add extension" to proceed with the installation.
-5. The extension will be installed and added to your Chrome browser.
-
 ### Usage
 
 #### Top Menu
