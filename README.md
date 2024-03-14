@@ -2,7 +2,6 @@
 description: >-
   We are not ready just yet, but you can join the beta program and help shape
   the future of Web3 development today!  
-  https://Offsetdata.com/blog/beta-testing-program/
 cover: .gitbook/assets/BG.png
 coverY: 0
 ---
