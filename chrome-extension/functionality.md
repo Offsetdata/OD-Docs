@@ -6,6 +6,10 @@
 
 The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features.
 
+Once the text has been selected, the user is only two clicks away from transferring the data to Offsetdata's application.
+
+Eliminating the necessity to store the data in a separate file or notes application prior to uploading it onto the blockchain, thus minimizing the risks of data loss or tampering. Moreover, there's no requirement to manually copy the text from the web page and paste it into the blockchain form submission. The entire process is seamlessly facilitated by Offsetdata's Chrome Extension.
+
 #### Top Menu
 
 The Offsetdata Chrome Extension features a top menu that allows you to switch between different modes:
