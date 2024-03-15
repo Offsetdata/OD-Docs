@@ -1,4 +1,4 @@
-# Functionality
+# Features
 
 ## Offsetdata Chrome Extension
 
