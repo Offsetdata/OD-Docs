@@ -1,5 +1,7 @@
 # Installation
 
+## Offsetdata Chrome Extension
+
 1. Open your Google Chrome web browser.
 2. Visit the Chrome Web Store by navigating to the following URL: [https://chrome.google.com/webstore](https://chrome.google.com/webstore).
 3. In the search bar at the top left corner of the Chrome Web Store, type "Offsetdata" and press Enter.
