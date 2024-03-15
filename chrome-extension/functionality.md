@@ -1,12 +1,10 @@
-# Usage
+# Functionality
 
 ## Offsetdata Chrome Extension
 
 ### Introduction
 
-The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features and usage instructions.
-
-### Usage
+The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features.
 
 #### Top Menu
 
