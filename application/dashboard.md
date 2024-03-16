@@ -33,13 +33,11 @@ This section provides information about the API keys associated with your accoun
 
 ## Usage Statistic Graphs
 
-
-
 **Weekly API Usage**: Weekly API Usage" section provides an overview of your API usage metrics for the current week.
 
 **Month API Usage**: The total API usage for the current month, is displayed in graphical form. It gives you an idea of your API consumption trend over the course of the month.
 
-**Weekly Endpoints Usage**: This metric represents the number of unique API endpoints used during the current week. It provides insight into the diversity of API calls made within a weekly timeframe.
+**Weekly Endpoints Usage**: This metric represents the number of unique API endpoints used during the current week. It provides insight into the diversity of API calls made within a weekly time frame.
 
 **Total Success Rate**: This metric indicates the overall success rate of your API calls during the current week. It represents the percentage of API requests that have been successfully processed without errors.
 
