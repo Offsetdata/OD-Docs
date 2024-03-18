@@ -22,7 +22,7 @@ Below, we present a list of sections included in the Collection View menu.
 * **Action Buttons (pre Marketplace publish):**
   * _Sell Collection_: Allows users to set the collection for sale.
   * _Edit Collection_: Enables editing details and information about the collection. 
-    > The *About* section is editable using Markdown Language. To understand Markdown Language, please refer to [Learn Markdown with Offsetdata](to-be-added).
+    > The *About* section is editable using Markdown Language. To understand Markdown Language, please refer to [Learn Markdown with Offsetdata](/OD-Docs/support/markdown/README.md).
 * **Action Buttons (post Marketplace publish):**
   * _Cancel Sale_: Delist the collection from Data Marketplace.
   * _View on Market_: Directs to the Data Marketplace and presents the collection.
