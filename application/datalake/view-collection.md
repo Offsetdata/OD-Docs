@@ -1,10 +1,9 @@
 ---
 description: >-
-  The Collection Page presents detailed information and options to manage a
-  specific collection
+  The View Collection Page provides a comprehensive overview of the detailed information and available options when viewing a specific collection.
 ---
 
-# Collection
+# View Collection
 
 **Header Section**
 
