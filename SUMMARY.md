@@ -28,6 +28,7 @@
 * [Dashboard](application/dashboard.md)
 * [Playground](application/playground.md)
 * [Status Page](application/status-page.md)
+* [Data Offsetting](application/data-offsetting.md)
 * [Datalake](application/datalake/README.md)
   * [Collection](application/datalake/collection.md)
 
