@@ -19,7 +19,6 @@
 
 * [Endpoints](api/endpoints.md)
 * [Usage](api/usage.md)
-  * [nftMap - data mapper \[DEPRECATED\]](api/usage/data-add.md)
 
 ## ▫ APPLICATION
 
