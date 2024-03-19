@@ -4,40 +4,22 @@
 
 ### Introduction
 
-The Offsetdata Chrome Extension is a powerful tool for managing web3 data on various blockchain networks. This documentation provides an overview of the extension's features and usage instructions.
+The purpose of the Offsetdata Chrome Extension is to streamline the process of storing data onto the blockchain. It enables users to quickly transfer text from any web page directly to Offsetdata's blockchain platform.
 
-### Usage
+#### Usage Guidelines
 
-#### Top Menu
+1.  **Text Selection:** Choose the desired text to be stored on the blockchain by employing either the conventional mouse drag method or preferred keyboard shortcuts.
 
-The Offsetdata Chrome Extension features a top menu that allows you to switch between different modes:
+2.  **Data Transfer:** To initiate data transfer, simply right-click anywhere on the page, then hover the mouse over the following option in the menu:
 
-* **Pro Mode**: This mode provides advanced features and capabilities. Please note that "Pro Mode" is not available in the beta version of the extension.
-* **Normal Mode**: This mode offers standard functionality for managing web3 data.
+    > Offsetdata – Blockchain Data Storage
 
-Select the desired mode from the top menu to switch between them.
+    Upon selecting this menu option, a list of available blockchains for data storage will be displayed. Click on the appropriate selection to launch the Offsetdata Application.
 
-#### Selector
+3.  **Data Uploading:** Upon reaching the data submission page within the Offsetdata Application, proceed with the blockchain form submission process. Alternatively, you may consult the [Data Offsetting Usage Page](../application/data-offsetting.md#usage) page for detailed guidance on the blockchain submission workflow.
 
-The selector section of the extension enables you to activate or deactivate various blockchain networks. Here's how it works:
+### Congratulations!
 
-1. The selector displays different blockchain networks along with their respective icons and descriptive headings.
-2. Each blockchain network has a toggle button next to it.
-3. To activate or deactivate a specific blockchain network, simply click the corresponding toggle button.
-4. The state of the toggle buttons is determined by the `chainsSelected` setting.
-5. When the blockchain network is active you will see its icon in right click Chrome menu.
-6. To submit data to the blockchain select text you want to submit and click right mouse button, the menu "Submit data to Selected chain" will appear.
+You've effectively utilized the Offsetdata Chrome Extension to effortlessly transfer data from a web page to your preferred blockchain. This streamlined process minimizes disruptions to your workflow by eliminating unnecessary copy and paste operations.
 
-#### Bottom Menu
-
-The bottom menu of the Offsetdata Chrome Extension provides additional options and links for enhanced navigation:
-
-* **Offsetdata.com Homepage**: Clicking on the icon or button associated with the Offsetdata.com homepage will redirect you to the official website of Offsetdata.
-* **API Documentation**: The bottom menu may include a button to access the API documentation related to the Offsetdata Chrome Extension. Click on this button to explore the available API documentation.
-* **Offsetdata Official Twitter Account**: By clicking on the icon or button associated with the official Twitter account of Offsetdata, you can visit and follow the latest updates and news.
-
-Please note that the appearance and specific options in the bottom menu may vary based on the implementation and version of the Offsetdata Chrome Extension.
-
-### Support and Feedback
-
-For any issues, questions, or feedback regarding the Offsetdata Chrome Extension, please contact our support team at [support@offsetdata.com](mailto:support@offsetdata.com). We value your input and will be happy to assist you with any inquiries.
+> **Expert Tip:** Enhance your workflow by opening multiple data transfer tabs and submitting the data at the conclusion of your web surfing session. This strategy reduces distractions and enhances concentration, leading to improved decision-making.
