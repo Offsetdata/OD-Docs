@@ -29,6 +29,7 @@
 - [Data Offsetting](application/data-offsetting.md)
 - [Datalake](application/datalake/README.md)
   - [Create New Collection](application/datalake/new-collection.md)
+  - [View Collection](application/datalake/view-collection.md)
 
 ## ▫ CHROME EXTENSION
 
