@@ -33,6 +33,7 @@
 ## ▫ CHROME EXTENSION
 
 * [Installation](chrome-extension/installation.md)
+* [Features](chrome-extension/features.md)
 * [Usage](chrome-extension/usage.md)
 * [Supported Chains](chrome-extension/supported-chains.md)
 
