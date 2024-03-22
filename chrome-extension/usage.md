@@ -16,7 +16,7 @@ The purpose of the Offsetdata Chrome Extension is to streamline the process of s
 
     Upon selecting this menu option, a list of available blockchains for data storage will be displayed. Click on the appropriate selection to launch the Offsetdata Application.
 
-3.  **Data Uploading:** Upon reaching the data submission page within the Offsetdata Application, proceed with the blockchain form submission process. Alternatively, you may consult the [Data Offsetting Usage Page](../application/data-offsetting.md#usage) page for detailed guidance on the blockchain submission workflow.
+3.  **Data Uploading:** Upon reaching the data submission page within the Offsetdata Application, proceed with the blockchain form submission process. Alternatively, you may consult the [Data Offsetting Usage Page](https://docs.offsetdata.com/application/data-offsetting#usage) page for detailed guidance on the blockchain submission workflow.
 
 ### Congratulations!
 
