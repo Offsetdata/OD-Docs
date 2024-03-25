@@ -41,7 +41,7 @@ Upon form submission, the entire collection list is presented, with the newly cr
 
 Once you've located the new collection card, click on the "View Collection" button.
 
-On the [View Collection](./view-collection.md) locate and click the “Edit Collection” button.
+On the [View Collection](https://docs.offsetdata.com/application/datalake/view-collection) locate and click the “Edit Collection” button.
 
 You can edit the collection by modifying the following fields:
 
